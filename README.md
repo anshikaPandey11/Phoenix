@@ -15,13 +15,9 @@
 
 ---
 
-## 📽 Live Demo
+## 📽️ Demo Video
 
-Click below to see Phoenix-AI in action:
-
-[![Watch the Demo]("C:\Users\Srishti\OneDrive\Desktop\Phoenix\Readme assets\Demo Video (Phoenix).mp4")
-
-> Replace `YOUR_VIDEO_ID` with your YouTube video link ID.
+[![Watch the demo](https://youtu.be/6U8f0r1J-2E)
 
 ---
 
