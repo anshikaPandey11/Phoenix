@@ -19,7 +19,7 @@
 
 Click below to see Phoenix-AI in action:
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Demo]("C:\Users\Srishti\OneDrive\Desktop\Phoenix\Readme assets\Demo Video (Phoenix).mp4")
 
 > Replace `YOUR_VIDEO_ID` with your YouTube video link ID.
 
@@ -66,10 +66,10 @@ Other libraries & tools:
 ## 🖼 Screenshots
 
 ### 🔍 Chat Interface  
-![Chat Interface](./screenshots/chat-ui.png)
+![Chat Interface]("C:\Users\Srishti\OneDrive\Desktop\Phoenix\Readme assets\image.png")
 
 ### 📚 Conversation History  
-![History Panel](./screenshots/history-ui.png)
+![History Panel]("C:\Users\Srishti\OneDrive\Desktop\Phoenix\Readme assets\History Details.jpg")
 
 ---
 
