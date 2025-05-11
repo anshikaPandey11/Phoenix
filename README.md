@@ -60,16 +60,6 @@ Other libraries & tools:
 
 ---
 
-## 🖼 Screenshots
-
-### 🔍 Chat Interface  
-![Chat Interface]("C:\Users\Srishti\OneDrive\Desktop\Phoenix\Readme assets\image.png")
-
-### 📚 Conversation History  
-![History Panel]("C:\Users\Srishti\OneDrive\Desktop\Phoenix\Readme assets\History Details.jpg")
-
----
-
 ## 🛠 Technologies Used
 
 - `@google/generative-ai` – Gemini API integration
@@ -90,4 +80,20 @@ git clone https://github.com/your-username/phoenix-ai.git
 cd phoenix-ai
 npm install
 npm run dev
+
+🙌 Credits
+React
+
+Appwrite
+
+Tailwind CSS
+
+Gemini API
+
+💡 Future Enhancements
+Export chat as PDF or text
+
+Voice interaction with Speech-to-Text
+
+Chat folders and tagging
 
