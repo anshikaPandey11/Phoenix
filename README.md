@@ -17,7 +17,13 @@
 
 ## 📽️ Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/6U8f0r1J-2E/0.jpg)](https://youtu.be/6U8f0r1J-2E)
+
+<p align="center">
+  <a href="https://youtu.be/6U8f0r1J-2E" target="_blank">
+    <img src="https://img.youtube.com/vi/6U8f0r1J-2E/0.jpg" alt="Watch the video" width="700"/>
+  </a>
+</p>
+
 
 
 ---
@@ -80,20 +86,8 @@ git clone https://github.com/your-username/phoenix-ai.git
 cd phoenix-ai
 npm install
 npm run dev
+```
+## 🌍 Access the app in your browser at ➡️ 
 
-🙌 Credits
-React
-
-Appwrite
-
-Tailwind CSS
-
-Gemini API
-
-💡 Future Enhancements
-Export chat as PDF or text
-
-Voice interaction with Speech-to-Text
-
-Chat folders and tagging
+🔗 [https://phoenix-beige.vercel.app/]
 
